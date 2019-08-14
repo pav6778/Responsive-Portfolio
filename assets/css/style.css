@@ -121,7 +121,7 @@ td {
 
 footer {
     color:  #dddddd;
-    padding: 40px 0 5px 0;
+    padding: 30px 0 30px 0;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
     text-align: center;
@@ -298,7 +298,7 @@ textarea {
     
     footer {
         color:  #dddddd;
-        padding: 40px 0 5px 0;
+        padding: 30px 0 30px 0;
         background-color: #666666;
         border-top: 8px solid #4aaaa5;
         text-align: center;
@@ -513,7 +513,7 @@ textarea {
 }
 footer {
     color:  #dddddd;
-    padding: 40px 0 5px 0;
+    padding: 30px 0 30px 0;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
     text-align: center;
@@ -552,8 +552,8 @@ footer {
    }
    #profile_photo {
     padding: 0 20px 20px 0;
-    width: 200px;
-    float: left;
+    width: 400px;
+    float: none;
     }
     ul {
         margin: 0;
@@ -616,9 +616,7 @@ footer {
         position: relative;
        
     }
-    td {
-        padding: 15px 25px 20px 0;
-    }
+ 
     .link_name {
         background-color: #4aaaa5;
         position: absolute;
@@ -633,7 +631,7 @@ footer {
     }
     footer {
         color:  #dddddd;
-        padding: 40px 0 5px 0;
+        padding: 30px 0 30px 0;
         background-color: #666666;
         border-top: 8px solid #4aaaa5;
         text-align: center;
